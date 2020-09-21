@@ -57,10 +57,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx",
+            "algo": "rx/0",
             "coin": null,
-            "url": " us-west.minexmr.com:4444",
-            "user": "43TPcRe5frii7C6sDR4d1yj3kXcdDg33RNbxRtmiS6nLLwkehpz5W2iEVGRMuiqA9cSSVVdAW8mX2JSt2RVpx7q3CmvJ8V2",
+            "url" : "rx.unmineable.com:3333",
+            "user": "DOGE:DDxmBQKhXkLcGMbqKmrYN3XJbzZ4kxp4q3.zantoz",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
